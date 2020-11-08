@@ -1,5 +1,7 @@
 # Java RSA-Encryptiontool
 
+[test] (https://img.shields.io/badge/Version-1.0%20(final)-green)
+
 This simple software is able to calculate public and private key for a simple RSA Encryption.
 
 #### Features:
