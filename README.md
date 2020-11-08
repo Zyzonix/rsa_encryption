@@ -9,7 +9,7 @@ This simple software is able to calculate public and private key for a simple RS
 
 #### Installation/Requirements:
 * Java 14 (JDK 14)
-* just download [this](https://github.com/Zyzonix/rsa_encryption/blob/main/compiled_jar/rsa_calculation.jar) then open terminal/cmd
+* just download [this](https://github.com/Zyzonix/rsa_encryption/blob/main/compiled_jar/rsa_calculation.jar?raw=true) then open terminal/cmd
 ```
 java -jar rsa_encryption.jar
 ```
