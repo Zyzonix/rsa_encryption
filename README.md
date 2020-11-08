@@ -1,6 +1,6 @@
 # Java RSA-Encryptiontool
 
-[![Version](https://img.shields.io/badge/Version-1.0%20(final)-orange)]() [![Java-Version](https://img.shields.io/badge/Java JDK-14-blue)
+[![Version](https://img.shields.io/badge/Version-1.0%20(final)-orange)]() [![Java-Version](https://img.shields.io/badge/Java JDK-14-blue)]()
 
 This simple software is able to calculate public and private key for a simple RSA Encryption.
 
